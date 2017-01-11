@@ -1,0 +1,21 @@
+Promises:
+    - isResolved
+    - isFulfilled
+    - isRejected
+    - isPending
+    - inspect
+    - spread
+    - delay
+    - timeout
+    - any
+    - all
+    - allSettled
+    - join
+    - joinSettled
+
+$q:
+    - delay
+    - any
+    - allSettled
+    - join
+    - joinSettled
